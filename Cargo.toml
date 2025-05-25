@@ -1,0 +1,11 @@
+[package]
+authors = ["iku <iku@cleesim.com>"]
+edition = "2024"
+name = "twix"
+version = "0.0.0"
+rust-version = "1.87.0"
+description = "A Discord bot framework for twilight"
+license = "MIT"
+repository = "https://github.com/twix-rs/twix"
+
+[dependencies]
